@@ -35,6 +35,8 @@ const Layout = ({ children }) => {
             alignItems: "center",
             cursor: "pointer",
             padding: "8px",
+            color:'#717D96',
+            fontWeight:500
           }}
         >
           <img src="./images/icon-1.png" alt="" />
@@ -47,6 +49,8 @@ const Layout = ({ children }) => {
             alignItems: "center",
             cursor: "pointer",
             padding: "8px",
+            color:"#2D3648",
+            fontWeight:500
           }}
           onClick={toggleSettings}
         >
@@ -102,6 +106,8 @@ const Layout = ({ children }) => {
               style={{
                 cursor: "pointer",
                 padding: "8px",
+                color:"#717D96",
+                fontWeight:500
               }}
             >
               Categories
@@ -112,6 +118,8 @@ const Layout = ({ children }) => {
               style={{
                 cursor: "pointer",
                 padding: "8px",
+                color:"#717D96",
+                fontWeight:500
               }}
             >
               Product Type
@@ -122,6 +130,8 @@ const Layout = ({ children }) => {
               style={{
                 cursor: "pointer",
                 padding: "8px",
+                color:"#717D96",
+                fontWeight:500
               }}
             >
               Product Size
@@ -131,6 +141,8 @@ const Layout = ({ children }) => {
               style={{
                 cursor: "pointer",
                 padding: "8px",
+                color:"#717D96",
+                fontWeight:500
               }}
             >
               Attributes

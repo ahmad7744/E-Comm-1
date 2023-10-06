@@ -131,7 +131,8 @@ const Layout = ({ children }) => {
                 cursor: "pointer",
                 padding: "8px",
                 color:"#717D96",
-                fontWeight:500
+                fontWeight:500,
+                
               }}
             >
               Product Size

@@ -24,3 +24,7 @@ code {
   height: 883px; /* Adjust the height of the vertical line */
   margin: 0 ; /* Adjust the margin to control the spacing */
 }
+
+li:hover {
+  background-color:#D4D8DF;
+}

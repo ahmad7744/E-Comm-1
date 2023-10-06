@@ -8,9 +8,10 @@ import Layout from "./Components/Layout";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Layout>
+  <Layout>
       <App />
-    </Layout>
+  </Layout>
+
   </React.StrictMode>
 );
 

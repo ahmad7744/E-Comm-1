@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.vertical-line {
+  border-left: 2px solid #000; /* Change the color and width as needed */
+  height: 883px; /* Adjust the height of the vertical line */
+  margin: 0 ; /* Adjust the margin to control the spacing */
+}

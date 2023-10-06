@@ -26,6 +26,10 @@ const Layout = ({ children }) => {
           flexShrink: 0,
           backgroundColor: "#EDF0F7",
           height: "883px",
+          display:"flex",
+          flexDirection:"column",
+          padding:"24px 40px"
+         
         }}
       >
         <div
